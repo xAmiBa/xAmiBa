@@ -12,9 +12,6 @@
   <a href="https://www.codewars.com/users/xAmiBa">
     <img src="https://img.shields.io/badge/xAmiBa-6633cc?style=flat-square&logo=Codewars&logoColor=white" />
   </a>
-  <a href="https://github.com/xAmiBa/?tab=follow">
-    <img src="https://img.shields.io/github/followers/xAmiBa?label=Follow&style=social" />
-  </a>
   <a href="https://twitter.com/xAmiBa">
     <img src="https://img.shields.io/badge/xAmiBa-6633cc?style=flat-square&logo=Twitter&logoColor=white" />
   </a>
