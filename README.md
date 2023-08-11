@@ -33,7 +33,7 @@
 
 ---------------------------------------------
 
-## <img height="25px" width="25px" src="https://i.gifer.com/yy3.gif" /><span style="color: #7F40BF">ABOUT ME</span>
+## <img height="25px" width="25px" src="[https://i.gifer.com/yy3.gif](https://lottiefolder.com/wp-content/uploads/2022/11/blob-lottie-animation-1-1.gif)" /><span style="color: #7F40BF">WHO I AM</span>
 
 ### <span style="color: #7F40BF">I'm an aspiring software developer with a passion for crafting innovative solutions to real-world problems.</span>
 
