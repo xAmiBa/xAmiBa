@@ -1,6 +1,6 @@
 # <span style="color: #7F40BF">Marketing Heart, Coding Mind 💜</span>
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" />
+[<img align="right" width="300px" src="https://github.com/xAmiBa/xAmiBa/blob/main/gif.gif" />](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7099156156140371968)
 
 <p align="left">
   <a href="mailto:abaaminaba@gmail.com">
