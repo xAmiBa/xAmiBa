@@ -1,6 +1,6 @@
 # <span style="color: #7F40BF">Marketing Heart, Coding Mind 💜</span>
 
-<p align="left">
+<p>
   <a href="mailto:abaaminaba@gmail.com">
     <img src="https://img.shields.io/badge/-abaaminaba@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abaaminaba@gmail.com" />
   </a>
@@ -18,10 +18,9 @@
   </a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamiba" />
+<br>
 
-
-<img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **Skills:**</span>
+<img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **My Skills:**</span>
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 
@@ -29,12 +28,13 @@
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 
-<img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **Learning:**</span> Advanced Python, Flask, Figma, Agile.
+<img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **Learning:**</span> Advanced Python, Flask, HTML & CSS, Figma.
 
 <img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **I am currently**</span> looking for a job as Software Developer.
 
 
 </p>
+<br>
 
 ---------------------------------------------
 
