@@ -1,7 +1,5 @@
 # <span style="color: #7F40BF">Marketing Heart, Coding Mind 💜</span>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamiba" />
-
 <p align="left">
   <a href="mailto:abaaminaba@gmail.com">
     <img src="https://img.shields.io/badge/-abaaminaba@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abaaminaba@gmail.com" />
@@ -19,6 +17,8 @@
     <img src="https://img.shields.io/badge/My Newsletter-6633cc?style=flat-square&logo=minutemailer&logoColor=white&link=https://www.linkedin.com/newsletters/ctrl-career-switch-to-tech-7099156156140371968/" />
   </a>
 </p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamiba" />
 
 
 <img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **My Skills:**</span>
