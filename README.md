@@ -39,7 +39,7 @@
 ---------------------------------------------
 
 ## <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> WHO I AM </span>
-### <span style="color: #7F40BF">I'm an aspiring software developer with a passion for crafting innovative solutions to real-world problems.</span>
+<span style="color: #7F40BF">I'm an aspiring software developer with a passion for crafting innovative solutions to real-world problems.</span>
 
 With a solid foundation in Python and hands-on experience with Git and GitHub, I'm wholeheartedly driven to take on fresh challenges and continually elevate my skills in the world of development. My primary focus centres around building an impressive portfolio of projects.
 
