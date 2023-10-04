@@ -1,4 +1,4 @@
-# <span style="color: #7F40BF">Marketing Heart, Coding Mind 💜</span>
+# <span style="color: #7F40BF">Amina Ba - Software Developer with Creative Edge</span>
 
 
 <p>
@@ -48,7 +48,8 @@
 <br>
 
 
-## <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> WHO I AM </span>
+# <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> WHO I AM </span>
+
 In the dynamic world of digital marketing and freelance SEO specialization, I've finely honed creativity, time management, and data analysis over four years. As a social media manager, I thrived on crafting engaging strategies to boost brand visibility.
 
 Now, I'm eager to apply my creativity and problem-solving flair to software development. Makers Bootcamp equipped me with advanced Python skills and a foundation in full-stack development. I tackled numerous projects, demonstrating my ability to build efficient, practical, and scalable solutions.
@@ -62,12 +63,15 @@ A testament to my Python proficiency is winning a challenge at the Code First Gi
 </a>
 
 
-## <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /> <span style="color: #7F40BF">WHAT I MADE</span>
+# <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /> <span style="color: #7F40BF">WHAT I MADE</span>
+ From small, innovative experiments to comprehensive applications, each project holds a special place in my journey, illustrating my passion for learning and creating meaningful solutions. Explore these projects to get a glimpse of my abilities, creativity, and dedication to continuous improvement.
 
 
 |                                  **Name**                                  |                                                                                                                                        About                                                                                                                                         |                Tech Stack                 |
 |:--------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
 |           [Home on Time](https://github.com/JLoobs/Home-On-Time)           | Home on Time is a safety app designed to improve women's safety by allowing users to notify their chosen contact when they expect to arrive home safely, and triggering an SOS message if they don't reach their destination within the specified time. \[group project - Hackathon] | Next.js, Node.js, React, JavaScript, HTML |
+|           [Takeaway App](https://github.com/xAmiBa/Takeaway_app)           | The Takeaway App is a simulation of a restaurant ordering system, enabling users to explore a categorized menu, add and remove items from their basket, and seamlessly place orders. It integrates Twilio API to send order confirmation messages via text, enhancing the overall user experience with real-time updates | Python, Twilio API |
+|           [Personal Diary](https://github.com/xAmiBa/Personal_Diary)           | The Diary and Task Manager is a Python-based solution empowering users to efficiently manage diary entries and tasks through a command-line interface. Leveraging object-oriented programming (OOP) principles, it provides an organized and structured system for handling entries, tasks, and contacts, showcasing my proficiency in OOP design and effective code testing. | Python |
 | [Password cracker & generator](https://github.com/xAmiBa/Password_Cracker) |                                                             Program that helps the user check the strength of their password, generate a new strong password, and enhance its security using a custom password generator.                                                              |                  Python                   |
 |           [To Do App](https://github.com/xAmiBa/To_Do)           | Simple To Do App in two versions: command line interface and graphical user interface. The program incorporates a variety of .txt file-handling operations: add, complete, edit & remove tasks, display, switch & create lists, display menu, exit the program. | Python, PySimpleGUI |
 
@@ -79,8 +83,8 @@ A testament to my Python proficiency is winning a challenge at the Code First Gi
 | Alex Lee  | Full-stack developer with expertise in building scalable solutions.| Python, Django, JavaScript, React | -->
 
 
----
-## <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /> <span style="color: #7F40BF">WHERE I WORKED</span>
+
+# <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /> <span style="color: #7F40BF">WHERE I WORKED</span>
 ### Trainee Software Developer
 
 Makers | Sept 2023 - Jan 2024
@@ -122,14 +126,14 @@ Theenk Tea | Jan 2019 - Sep 2023
 
 
 ---------------------------------------------
-## <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /> <span style="color: #7F40BF">WHAT I LEARNED</span>
-**Software Development Bootcamp** | Makers Academy | Sept 2023 - Jan 2024
+# <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /> <span style="color: #7F40BF">WHAT I LEARNED</span>
+⭐️ **Software Development Bootcamp** | Makers Academy | Sept 2023 - Jan 2024
 
-**CertHE Computing & IT** (currently interrupting studies) | The Open University | 
+⭐️ **CertHE Computing & IT** (currently interrupting studies) | The Open University | 
 Jan 2023 - Sep 2023
 
-**Agile & Scrum Course** | Code First Girls | Aug 2023
+⭐️ **Agile & Scrum Course** | Code First Girls | Aug 2023
 
-**GIT & GitHub Course** | Code First Girls | Feb 2023 - Mar 2023
+⭐️ **GIT & GitHub Course** | Code First Girls | Feb 2023 - Mar 2023
 
-**Python & Apps Course** | Code First Girls | Dec 2022 - Feb 2023
+⭐️ **Python & Apps Course** | Code First Girls | Dec 2022 - Feb 2023
