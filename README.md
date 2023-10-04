@@ -125,7 +125,6 @@ Theenk Tea | Jan 2019 - Sep 2023
 
 
 
----------------------------------------------
 # <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /> <span style="color: #7F40BF">WHAT I LEARNED</span>
 ⭐️ **Software Development Bootcamp** | Makers Academy | Sept 2023 - Jan 2024
 
@@ -137,3 +136,10 @@ Jan 2023 - Sep 2023
 ⭐️ **GIT & GitHub Course** | Code First Girls | Feb 2023 - Mar 2023
 
 ⭐️ **Python & Apps Course** | Code First Girls | Dec 2022 - Feb 2023
+
+# <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /> <span style="color: #7F40BF">HOBBIES</span>
+🌊 swimming
+
+🪐 astronomy
+
+🚲 cycling
