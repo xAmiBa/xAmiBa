@@ -31,6 +31,8 @@
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -40,9 +42,9 @@
 <img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **Learning:**</span>
 
 ![Static Badge](https://img.shields.io/badge/Advanced_Python-purple)
-![Static Badge](https://img.shields.io/badge/Test_Drived_Development-purple)
+![Static Badge](https://img.shields.io/badge/Javascript-purple)
 ![Static Badge](https://img.shields.io/badge/Object_Oriented_Programming-purple)
-![Static Badge](https://img.shields.io/badge/Pair_Programming-purple)
+![Static Badge](https://img.shields.io/badge/Heroku-purple)
 
 
 
