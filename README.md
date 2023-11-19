@@ -93,6 +93,7 @@ A testament to my Python proficiency is winning a challenge at the Code First Gi
 
 |                                  Name                                  |                                                                                                                                        About                                                                                                                                         |                Tech Stack                 |
 |:--------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
+| [Gigs website](https://github.com/xAmiBa/Gigs_App) | This is a simple React app that displays information about various music gigs. Users can view details about each gig, including the band name, image, description, date and time, and location. Additionally, users can mark gigs as their favorites by clicking the "Add to favourites" button. | JavaScript, Node.js, React, HTML & CSS, Vite, Jest |
 | [Bowling Scorecard App](https://github.com/xAmiBa/Bowling_Scorecard_App) | A JavaScript-based command-line application for keeping track of bowling scores. It calculates the total score, identifies strikes and spares, and handles bonus points. The app uses Node.js and includes features to ensure data integrity. | JavaScript, Node.js, readline, cli-table |
 | [Weather App](https://github.com/xAmiBa/Weather_App) | A CLI-based weather application for retrieving and displaying real-time weather data for a specific city. Developed using JavaScript and Node.js, it leverages the OpenWeatherMap API, follows OOP principles, and utilizes TDD for ensuring code quality. | JavaScript, Node.js, OpenWeatherMap API |
 |           [Takeaway App](https://github.com/xAmiBa/Takeaway_app)           | The Takeaway App is a simulation of a restaurant ordering system, enabling users to explore a categorized menu, add and remove items from their basket, and seamlessly place orders. It integrates Twilio API to send order confirmation messages via text, enhancing the overall user experience with real-time updates | Python, Twilio API |
@@ -100,12 +101,7 @@ A testament to my Python proficiency is winning a challenge at the Code First Gi
 | [Password cracker & generator](https://github.com/xAmiBa/Password_Cracker) |                                                             Program that helps the user check the strength of their password, generate a new strong password, and enhance its security using a custom password generator.                                                              |                  Python                   |
 |           [To Do App](https://github.com/xAmiBa/To_Do)           | Simple To Do App in two versions: command line interface and graphical user interface. The program incorporates a variety of .txt file-handling operations: add, complete, edit & remove tasks, display, switch & create lists, display menu, exit the program. | Python, PySimpleGUI |
 
-<!-- Non full-stack projects
-| Name      | About                                                              | Tech Stack         |
-|-----------|--------------------------------------------------------------------|--------------------|
-| John Doe  | Passionate software developer with a focus on web applications.   | HTML, CSS, JavaScript, React |
-| Jane Smith| Experienced in mobile app development with a knack for UI/UX design.| Swift, Java, Kotlin, Flutter |
-| Alex Lee  | Full-stack developer with expertise in building scalable solutions.| Python, Django, JavaScript, React | -->
+<!-- Non full-stack projects-->
 
 
 
