@@ -27,22 +27,16 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <br>
 <!-- servers -->
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <br>
 <!-- frontend -->
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <br>
 <!-- testing -->
-<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> 
 <br>
 <!-- databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <br>
@@ -87,7 +81,7 @@ A testament to my Python proficiency is winning a challenge at the Code First Gi
 |:--------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
 |           [AirBnB Clone App](https://github.com/xAmiBa/AirBnB-Clone)           | This project is an Airbnb clone that allows users to list and book accommodations. Users can sign up, log in, list their properties, view available properties, and send booking requests as well as cancel them. Owners can accept, reject or revoke requests. | Python, HTML & CSS PostgreSQL, Flask, Testing: pytest, playwright |
 |           [Chitter App](https://github.com/xAmiBa/Chitter_app)           | Chitter is a web application that allows users to post messages (peeps) and view them in reverse chronological order. Users can sign up, log in, and log out to manage their interactions on the platform. | Python, HTML & CSS, PostgreSQL, Flask, Testing: pytest, playwright |
-|           [Home on Time](https://github.com/JLoobs/Home-On-Time)           | Home on Time is a safety app designed to improve women's safety by allowing users to notify their chosen contact when they expect to arrive home safely, and triggering an SOS message if they don't reach their destination within the specified time. \[group project - Hackathon] | Next.js, Node.js, React, JavaScript, HTML |
+|           [Home on Time](https://github.com/xAmiBa/Home-on-Time)           | Home on Time is a safety app designed to improve women's safety by allowing users to notify their chosen contact when they expect to arrive home safely, and triggering an SOS message if they don't reach their destination within the specified time. \[group project - Hackathon] | Next.js, Node.js, React, JavaScript, HTML |
 
 ### Learning Journey Projects
 
