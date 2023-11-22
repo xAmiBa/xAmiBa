@@ -59,14 +59,11 @@
 
 
 # <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> WHO I AM </span>
+Experienced developer with a background in digital marketing and freelance SEO, I've seamlessly transitioned from crafting brand strategies as a social media manager to embracing coding. Currently enrolled in Makers Academy and set to graduate in January, I'm immersed in Test-Driven Development, agile teamwork, and Object-Oriented Programming. This ongoing educational pursuit fuels my enthusiasm for continuous learning and overcoming challenges in the tech world.
 
-In the dynamic world of digital marketing and freelance SEO specialization, I've finely honed creativity, time management, and data analysis over four years. As a social media manager, I thrived on crafting engaging strategies to boost brand visibility.
+Excited to contribute my versatile skill set to dynamic projects, I bring adaptability and a commitment to staying at the forefront of industry best practices. My evolution from a junior software engineer with a marketing background reflects both my journey's adaptability and my enduring passion for creating impactful solutions in the ever-evolving tech landscape.
 
-Now, I'm eager to apply my creativity and problem-solving flair to software development. Makers Bootcamp equipped me with advanced Python skills and a foundation in full-stack development. I tackled numerous projects, demonstrating my ability to build efficient, practical, and scalable solutions.
 
-Collaborative experiences at Makers Bootcamp and winning the SheCanCode Hackathon underscore my effective teamwork and communication. Moreover, I've solidified my grasp of Test-Driven Development and Object-Oriented Programming fundamentals.
-
-A testament to my Python proficiency is winning a challenge at the Code First Girls competition, showcasing my drive for continuous learning and passion for challenges.
 
 <a href="https://www.linkedin.com/newsletters/ctrl-career-switch-to-tech-7099156156140371968/">
   <img src="https://github.com/xAmiBa/xAmiBa/blob/main/newbannerImage.gif" />
