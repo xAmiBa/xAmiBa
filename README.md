@@ -59,7 +59,7 @@
 
 
 # <img height="35px" width="35px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> WHO I AM </span>
-Experienced developer with a background in digital marketing and freelance SEO, I've seamlessly transitioned from crafting brand strategies as a social media manager to embracing coding. Currently enrolled in Makers Academy and set to graduate in January, I'm immersed in Test-Driven Development, agile teamwork, and Object-Oriented Programming. This ongoing educational pursuit fuels my enthusiasm for continuous learning and overcoming challenges in the tech world.
+Full-stack developer with a background in digital marketing and freelance SEO, I've seamlessly transitioned from crafting brand strategies as a social media manager to embracing coding. Currently enrolled in Makers Academy and set to graduate in January, I'm immersed in Test-Driven Development, agile teamwork, and Object-Oriented Programming. This ongoing educational pursuit fuels my enthusiasm for continuous learning and overcoming challenges in the tech world.
 
 Excited to contribute my versatile skill set to dynamic projects, I bring adaptability and a commitment to staying at the forefront of industry best practices. My evolution from a junior software engineer with a marketing background reflects both my journey's adaptability and my enduring passion for creating impactful solutions in the ever-evolving tech landscape.
 
