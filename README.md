@@ -19,33 +19,42 @@
   </a>
 </p>
 
-<img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **I am currently**</span> looking for a job as Software Developer.
 <br>
 
 <img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **My Skills:**</span>
+<br>
+<!-- languages -->
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<br>
+<!-- servers -->
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<br>
+<!-- frontend -->
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br>
+<!-- testing -->
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> 
+<br>
+<!-- databases -->
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<br>
 
-**Languages:**   
-Python, JavaScript, Kotlin
+<img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **Learning:**</span>
 
-**Databases:**   
-PostgreSQL, MongoDB, Modeling & ORMs
-
-**Frontend:**   
-HTML & CSS, React, Next.js
-
-**Backend:**  
-Express, Flask, Session management & JWT tokens
-
-**Testing:**   
-Pytest, Cypress, Jest, Playwright, Unittest
-
-**Version Control:**  
-Git, GitHub
-
-**Other:**   
-Pair programming, Agile, Continuous Integration
+![Static Badge](https://img.shields.io/badge/React-purple)
+![Static Badge](https://img.shields.io/badge/Advanced_Javascript-purple)
+![Static Badge](https://img.shields.io/badge/Object_Oriented_Programming-purple)
+![Static Badge](https://img.shields.io/badge/Heroku-purple)
 
 
+
+
+<img height="15px" width="15px" src="https://github.com/xAmiBa/xAmiBa/blob/358f0839515a003bb812c1db867ee28fbdfed6ca/L1iJk9jegs.gif" /><span style="color: #7F40BF"> **I am currently**</span> looking for a job as Software Developer.
+
+
+</p>
 <br>
 
 
