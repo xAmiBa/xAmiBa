@@ -18,6 +18,7 @@
 
 I am a Makers Academy-trained engineer with a background in digital marketing, including freelance SEO and social media management. Transitioning to full-stack development has equipped me with a user-centric approach to software engineering. I am seeking opportunities in front-end, back-end, full-stack development, QA, or DevOps. My experience in fast-paced environments has honed my adaptability and self-starter attitude, and I am proficient in rapidly acquiring and implementing new programming languages and technologies.
 
+**Now working on:** [BrainScript](https://github.com/xAmiBa/BrainScript) - generative AI platform that produces project ideas for software developers, built with Django and Django REST Framework for robust backend functionality and API integration.
 ## SKILLS
 Backend: `JavaScript (Node.js)` `Express` `Ruby` `Python` `Django` `Flask` `Figma`
 
