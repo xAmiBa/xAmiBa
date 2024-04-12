@@ -1,11 +1,11 @@
 # <span>Amina Ba - Full-Stack Software Engineer</span>
 
 <p>
-  <a href="mailto:abaaminaba@gmail.com">Email Me</a> •
-  <a href="https://xAmiBa.github.io">My Portfolio</a> •
-  <a href="https://www.linkedin.com/in/baamina">Connect on LinkedIn</a> •
-  <a href="https://twitter.com/xAmiBa">Follow on Twitter</a> •
-  <a href="https://www.linkedin.com/newsletters/ctrl-career-switch-to-tech-7099156156140371968/">Subscribe To Newsletter</a>
+  <a href="mailto:abaaminaba@gmail.com">Email</a> •
+  <a href="https://xAmiBa.github.io">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/baamina">LinkedIn</a> •
+  <a href="https://twitter.com/xAmiBa">Twitter</a> •
+  <a href="https://www.linkedin.com/newsletters/ctrl-career-switch-to-tech-7099156156140371968/">Newsletter</a>
 </p>
 
 🏆 Recipient of the Makers Represent Scholarship by Coding Black Females (2023)
