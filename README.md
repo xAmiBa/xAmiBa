@@ -8,8 +8,6 @@
   <a href="https://www.linkedin.com/newsletters/ctrl-career-switch-to-tech-7099156156140371968/">Subscribe To Newsletter</a>
 </p>
 
-
-## ABOUT
 🏆 Recipient of the Makers Represent Scholarship by Coding Black Females (2023)
 
 🏆 Winner of SheCanCode & Dojo Hackathon for best [Women's Safety App](https://github.com/xAmiBa/Home-on-time-Android) (2023)
@@ -19,7 +17,7 @@
 I am a Makers Academy-trained engineer with a background in digital marketing, including freelance SEO and social media management. Transitioning to full-stack development has equipped me with a user-centric approach to software engineering. I am seeking opportunities in front-end, back-end, full-stack development, QA, or DevOps. My experience in fast-paced environments has honed my adaptability and self-starter attitude, and I am proficient in rapidly acquiring and implementing new programming languages and technologies.
 
 **Now working on:** [BrainScript](https://github.com/xAmiBa/BrainScript) - generative AI platform that produces project ideas for software developers, built with Django and Django REST Framework for robust backend functionality and API integration.
-## SKILLS
+## TECH STACK
 Backend: `JavaScript (Node.js)` `Express` `Ruby` `Python` `Django` `Flask` `Figma`
 
 Frontend: `React.js` `Next.js` `HTML, CSS` `JavaScript` `REST APIs`
@@ -58,7 +56,7 @@ Here's your list of projects formatted with the tech stack in bold:
 - [To Do App](https://github.com/xAmiBa/To_Do) - Simple To Do App in two versions: command line interface and graphical user interface. The program incorporates a variety of .txt file-handling operations: add, complete, edit & remove tasks, display, switch & create lists, display menu, exit the program. **[Python, PySimpleGUI]**
 </details>
 
-## PROFFESIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 ### Volunteer Programming Coach at <i>Codebar (Feb 2024 - now)</i>
 - Executed mentorship and leadership in a full-stack development context, offering tailored instruction and empowerment in Python & JavaScript to students from underrepresented tech demographics, elevating their coding proficiency and self-assurance in software development.
 
@@ -74,6 +72,20 @@ Here's your list of projects formatted with the tech stack in bold:
 
 ### Social Media Manager at <i>Theenk Tea (Jan 2019 - Sep 2023)</i>
 - Led social media strategy development, overseeing content creation and managing online engagement. - Conducted staff training to ensure consistent brand messaging and effective social media management practices.
+
+## SKILLS
+### Communication:
+- Enhanced communication skills through role as Social Media Manager, coordinating with C-level executives and overseeing social media assistants.
+- Facilitated client communications and issue resolutions effectively. Collaborated across multidisciplinary teams including backend, frontend, and QA engineers under high-pressure deadlines during my tenure at Makers Bootcamp.
+### Organisation Skills:
+- Demonstrated advanced multitasking capabilities managing multiple social media channels and simultaneous SEO projects as a freelancer.
+- Developed efficient project management techniques and prioritized tasks to meet overlapping deadlines, ensuring consistent delivery of objectives.
+### Proactivity (Self-Learner):
+- Exhibited strong self-learning and adaptability by transitioning careers to software development. Achieved top placement in a competitive Python programming challenge among 90 participants.
+- Regularly engaged in self-directed learning through technical documentation and collaborative improvement of development practices.
+### Customer-Centric Approach:
+- Applied a user-focused strategy in software development, leveraging previous experience in social media to enhance user engagement and satisfaction.
+- Prioritized customer requirements and feedback in the development process to ensure alignment with user expectations and business goals.
 
 ## EDUCATION
 📓 **Software Development Bootcamp** | Makers Academy | Sept 2023 - Jan 2024
