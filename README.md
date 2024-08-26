@@ -2,7 +2,7 @@
 
 <p>
   <a href="mailto:abaaminaba@gmail.com">Email</a> •
-  <a href="https://xAmiBa.github.io">Portfolio</a> •
+  <a href="https://aminaba.com">Portfolio</a> •
   <a href="https://www.linkedin.com/in/baamina">LinkedIn</a> •
   <a href="https://twitter.com/xAmiBa">Twitter</a> •
   <a href="https://www.linkedin.com/newsletters/ctrl-career-switch-to-tech-7099156156140371968/">Newsletter</a>
